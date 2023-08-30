@@ -108,7 +108,7 @@ export class BotService implements OnModuleInit {
               [
                 {
                   text: 'Статистика чата',
-                  url: 'https://google.com',
+                  url: 'https://telegram-bot-client-amber.vercel.app/',
                 },
               ],
             ],
